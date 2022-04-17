@@ -83,3 +83,42 @@ body {
 
         justify-content: center;
       }
+
+       ul .youtube img {
+        transition: 0.3s;
+        display: inline-block;
+      }
+      
+      ul .youtube img:hover {
+        transform: scale(1.1);
+
+      }
+
+      ul .facebook img {
+        transition: 0.3s;
+        display: inline-block;
+      }
+      
+      ul .facebook img:hover {
+        transform: scale(1.1);
+      }
+
+      ul .instagram img {
+        transition: 0.3s;
+        display: inline-block;
+      }
+      
+      ul .instagram img:hover {
+        transform: scale(1.1);
+
+      }
+
+      ul .linkedin img {
+        transition: 0.3s;
+        display: inline-block;
+      }
+      
+      ul .linkedin img:hover {
+        transform: scale(1.1);
+        
+      }
